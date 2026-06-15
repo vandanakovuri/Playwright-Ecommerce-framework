@@ -1,0 +1,5 @@
+starting test
+[INFO] Clicked on Signup Button
+[INFO] Entering username and password
+[INFO] Clicked on Submit Button
+ending test

@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6536","Signup Test","webkit","2026-05-02","passed","2026-05-02","","signup.spec.ts","",""
+"","5694","Signup Test","firefox","2026-05-02","passed","2026-05-02","","signup.spec.ts","",""
+"","6304","Signup Test","chromium","2026-05-02","passed","2026-05-02","","signup.spec.ts","",""
