@@ -17,7 +17,7 @@ BaseTest.afterEach(async ({page}, testInfo) => {
         });
     }
 console.log('ending test');
-await page.close();
+
 });
 
 
